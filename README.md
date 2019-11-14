@@ -2,6 +2,8 @@
 
 BRAlerts is a small class written in Swift that lets you display a basic `UIAlertController` from any view controller, using a single line of code. Enjoy!
 
+![Written in Swift](https://img.shields.io/badge/Written%20in-Swift-blue)
+
 ## Features
 ----------------
 - [x] Display a simple `UIAlertController` using a single line of code
