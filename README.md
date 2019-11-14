@@ -4,9 +4,9 @@ BRAlerts is a small file written in pure Swift that allows you to simply display
 
 ## Features
 ----------------
-- [x] Display a simple UIAlertController using one line of code
-- [x] Delay UIViewController presentation
-- [x] Use the default actions or add a custom one
+- [x] Display a simple `UIAlertController` using a single line of code
+- [x] Use the default `UIAlertAction`s or add a custom one
+- [x] Delay `UIAlertController` presentation
 
 ## Setup
 ----------------
