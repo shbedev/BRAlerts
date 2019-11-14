@@ -2,18 +2,18 @@
 
 BRAlerts is a small file written in pure Swift that allows you to simply display an alert controller in your UIViewController. Enjoy!
 
-### Features
+## Features
 ----------------
 - [x] Show a UIAlertController from any UIViewController
 - [x] Choose between an alert/actionSheet styles
 - [x] Show the alert with a time delay
 - [x] Use default and/or custom actions
 
-### Setup
+## Setup
 ----------------
 Just download the BRAlerts.swift file and drag it into your Xcode project.
 
-### Usage
+## Usage
 ----------------
 ```swift
 // Simple alert
@@ -34,3 +34,7 @@ BRAlerts.show(on: self, title: "😯 Task Error", message: "An error occurred wh
 // Alert as an Action Sheet with delay
 BRAlerts.show(on: self, title: "Success", message: "The download has been completed successfully", style: .actionSheet, actions: [.ok])
 ```
+
+## MIT License
+----------------
+BRAlerts is available under the MIT license. See the LICENSE file for more info.
