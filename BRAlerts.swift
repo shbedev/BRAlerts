@@ -1,11 +1,3 @@
-//
-//  BRAlerts.swift
-//  CardScan
-//
-//  Created by Shemaryahu Berlinger on 14/11/2019.
-//  Copyright © 2019 Shemaryahu Berlinger. All rights reserved.
-//
-
 import UIKit
 
 enum BRAlertAction: String {
