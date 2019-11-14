@@ -22,7 +22,7 @@ BRAlerts.show(on: self, title: "Welcome! 😍", message: "This is BRAlerts", sty
 
 Alert with an action that opens the app's settings
 ```swift
-BRAlerts.show(on: self, title: "Change Language", message: "👉 Please open the app's settings and select the preferred language", style: .alert)
+BRAlerts.show(on: self, title: "Change Language", message: "👉 Please open the app's settings and select the preferred language", style: .alert, actions: [.openSettings])
 ```
 
 Alert with custom action
