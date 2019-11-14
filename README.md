@@ -1,6 +1,6 @@
 # BRAlerts
 
-BRAlerts is a small file written in pure Swift that allows you to simply display an alert controller in your from any view controller. Enjoy!
+BRAlerts is a small class written in Swift that lets you display a basic `UIAlertController` from any view controller, using a single line of code. Enjoy!
 
 ## Features
 ----------------
