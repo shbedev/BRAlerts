@@ -11,7 +11,7 @@ BRAlerts is a small file written in pure Swift that allows you to simply display
 
 ## Setup
 ----------------
-Just download the BRAlerts.swift file and drag it into your Xcode project.
+- Download the BRAlerts.swift file and drag it into your Xcode project.
 
 ## Usage
 ----------------
