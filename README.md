@@ -25,7 +25,7 @@ Alert with an action that opens the app's settings
 BRAlerts.show(on: self, title: "Change Language", message: "👉 Please open the app's settings and select the preferred language", style: .alert, actions: [.openSettings])
 ```
 
-Alert with custom action
+Alert with a custom action
 ```swift
 let customAction = UIAlertAction(title: "Try Again", style: .default) { (action) in
     // Perform a custom task
